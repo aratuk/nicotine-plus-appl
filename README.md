@@ -2,6 +2,8 @@
 
 <img src="pynicotine/gtkgui/icons/hicolor/scalable/apps/org.nicotine_plus.Nicotine.svg" align="right" width="128" height="128" style="margin: 0 10px">
 
+## The purpose of this fork is simply to create Apple-silicon-native packages that aren't available from the main repo due to incompability with their deployment system. I will sync the fork and re-package from time to time. (See [Issue #1475](https://github.com/nicotine-plus/nicotine-plus/issues/1475) for more info.)
+
 Nicotine+ is a graphical client for the [Soulseek](https://www.slsknet.org/) peer-to-peer network.
 
 Nicotine+ aims to be a pleasant, free and open source (FOSS) alternative to the official Soulseek client, providing additional functionality while keeping current with the Soulseek protocol.
